@@ -1,6 +1,6 @@
-# Theory of Computation (TOC) Interview Guide
+# Theory of Computation (TOC) Guide
 
-Welcome to the **Theory of Computation Interview Guide** – a comprehensive resource designed to help you master the concepts, constructions, proofs, and interview patterns essential for computer science interviews and academic excellence.
+Welcome to the **Theory of Computation Guide** – a comprehensive resource designed to help you master the concepts, constructions, proofs, and interview patterns essential for computer science interviews and academic excellence.
 
 ---
 
